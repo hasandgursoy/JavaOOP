@@ -9,3 +9,6 @@
 
 ## Airplan Diagram
 ![alt](https://github.com/hasandgursoy/JavaOOP/blob/main/src/Diagram/FlightManagementClassDiagram.png)
+
+## Movie Diagram
+![alt](https://github.com/hasandgursoy/JavaOOP/blob/main/src/Diagram/MovieSystem.png)
