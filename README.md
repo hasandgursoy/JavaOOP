@@ -12,3 +12,6 @@
 
 ## Movie Diagram
 ![alt](https://github.com/hasandgursoy/JavaOOP/blob/main/src/Diagram/MovieSystem.png)
+
+## Elevator Diagram
+![alt](https://github.com/hasandgursoy/JavaOOP/blob/main/src/Diagram/Elevator.drawio.png)
