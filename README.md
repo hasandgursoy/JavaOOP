@@ -10,5 +10,5 @@
 ## Airplan Diagram
 ![alt](https://github.com/hasandgursoy/JavaOOP/blob/main/src/Diagram/FlightManagementClassDiagram.png)
 
-## Airplane Diagram
+## Movie Diagram
 ![alt](https://github.com/hasandgursoy/JavaOOP/blob/main/src/Diagram/MovieSystem.png)
